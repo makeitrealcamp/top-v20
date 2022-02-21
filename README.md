@@ -1,7 +1,7 @@
-# Programa Top v__ -  Tiempo _______
+# Programa Top v20 -  Tiempo Compleo
 
 ## Mentores 👩🏻‍🏫👨🏼‍🏫
-- [Nombre del mentor](profiles/mentor-principal.md)
+- [Cristian Moreno](profiles/mentor-principal.md)
 - Mentor 2
 - Mentor 3
 
