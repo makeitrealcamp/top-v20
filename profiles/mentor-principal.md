@@ -1,6 +1,7 @@
 # Cristian Moreno
 
-[![khriztianmoreno - Javascript Developer](https://res.cloudinary.com/khriztianmoreno/image/upload/v1612447065/_MG_4005.jpg)](https://www.khriztianmoreno.com)
+
+![khriztianmoreno - Javascript Developer](https://user-images.githubusercontent.com/1481964/154877824-3163cca3-6486-4738-8ef3-39bc1c29078a.jpeg)
 
 Hola 👋🏻, Soy Cristian Moreno. Diariamente utilizo: **JavaScript (ES6), React, Gatsby, CSS (inJS), GraphQL, Serverless**, solo para nombrar los bits más importantes.
 
