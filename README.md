@@ -27,7 +27,7 @@
 - Cristian Cortés
 - Carlos Vega
 - Andrés Sástoque
-- [Alexander Suarez](./profiles/alex-suarez-rodriguez.md)
+- [Alexander Suarez](profiles/alex-suarez-rodriguez.md)
 - Julian Salamanca
 
 ## Como es un dia de estudio durante el programa TOP?

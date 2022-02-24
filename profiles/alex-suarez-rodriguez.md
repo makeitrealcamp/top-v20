@@ -1,6 +1,6 @@
 # ALEXANDER SUAREZ RODRIGUEZ
 
-que tal soy alexander suarez rodriguez,estudiante de ingenieria mecatrinica, actualmente vivo en bogota. uno de meis gustos es estar en constante aprendizaje, gracias a ello he escojido el mundo de la programacion, ya uqe permite generar soluciones o palnes de mejora a diferentes entornos, adicional es un sector el cual esta en constante avanze tecnologico.
+que tal soy alexander suarez rodriguez,estudiante de ingenieria mecatronica, actualmente vivo en bogota. uno de mis gustos es estar en constante aprendizaje, gracias a ello he escojido el mundo de la programacion, ya que permite generar soluciones o planes de mejora a diferentes entornos, adicional es un sector el cual esta en constante avance tecnologico.
 
 ## Perfiles sociales
 

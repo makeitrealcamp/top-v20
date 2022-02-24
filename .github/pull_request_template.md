@@ -6,7 +6,7 @@
 [//]: <> (Como te sientes con este PR? la solucion que entregas como te hace sentir?)
 - [ ] 🤙 Solucion rapida
 - [ ] 👌 Terminado y listo
-- [ ] 🤞 Espero que esto funcione, por favor revisar cuidadosamente
+- [X] 🤞 Espero que esto funcione, por favor revisar cuidadosamente
 
 ### Tickets
 [//]: <> (El numero del ticket asociado a este PR)
