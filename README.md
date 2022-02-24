@@ -13,7 +13,7 @@
 - Dayan Manrique
 - Wendy Medina
 - [Santiago Valencia](profiles/santiago-valencia-profile.md)
-- Raúl Lara
+- [Raúl Lara](profiles/raul-lara.md)
 - [Paola Barbosa](profiles/paola-barbosa.md)
 - Norbey Vásquez
 - Luis Porto
