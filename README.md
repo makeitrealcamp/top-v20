@@ -12,7 +12,7 @@
 - Boris Monroy
 - Dayan Manrique
 - Wendy Medina
-- [Santiago Valencia](sprofiles/santiago-valencia-profile.md)
+- [Santiago Valencia](https://github.com/makeitrealcamp/top-v20/blob/develop/profiles/santiago-valencia-profile.md)
 - Raúl Lara
 - Paola Barbosa
 - Norbey Vásquez
