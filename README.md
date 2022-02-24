@@ -22,7 +22,7 @@
 - Jose Castrillón
 - Jesús Osorio
 - [Francisco Huertas](profiles/francisco-huertas.md)
-- Diego Beltrán
+- [Diego Beltrán](profiles/diego-beltran.md)
 - [Daniel Arteta](profiles/daniel-arteta.md)
 - Cristian Cortés
 - Carlos Vega
