@@ -10,7 +10,7 @@
 - [Emerson Asto](profiles/emerson-asto.md)
 - Diego Cubides
 - Boris Monroy
-- Dayan Manrique
+- [Dayan Manrique](profiles/dayanmanrique.md)
 - Wendy Medina
 - [Santiago Valencia](profiles/santiago-valencia-profile.md)
 - Raúl Lara
@@ -113,5 +113,5 @@ Los lineamientos para los proyectos individuale y grupales son estos:
     1. Introducción (Nombre del proyecto, URL’s).
     2. Descripción de la aplicación.
     3. Metodología (Jira, Github, SCRUM, sprintes)
-    4. Tecnologías (React, Material, Express, [Socket.io](http://socket.io/), MongoDB, )
+    4. Tecnologías (React, Material, Express, [Socket.io](http://socket.io/), MongoDB, )
     5. Diagrama de como esta distribuida su aplicacion (arquitectura) backend, frontend, servicios extras
