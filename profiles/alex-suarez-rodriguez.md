@@ -9,7 +9,7 @@ que tal soy alexander suarez rodriguez,estudiante de ingenieria mecatronica, act
 - [Website](aun no tengo pero espero dentro de poco crearla yo mismo)
 
 ## Experiencia Tecnica
-> En una escala de 1 a 5 como te sientes tecnicamente en esto temas:  ⭐️⭐️
+> En una escala de 1 a 5 como te sientes tecnicamente en esto temas:  ⭐️⭐️⭐️⭐️⭐️
 
 - Programacion: ⭐️⭐️
 - Javascript: ⭐️⭐️
