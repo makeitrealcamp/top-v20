@@ -7,7 +7,7 @@
 
 ## Estudiantes 👩🏻‍💻🧑🏼‍💻
 - Pool Hijuela
-- Emerson Asto
+- [Emerson Asto](profiles/emerson-asto.md)
 - Diego Cubides
 - Boris Monroy
 - Dayan Manrique
