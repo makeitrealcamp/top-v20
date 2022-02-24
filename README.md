@@ -17,7 +17,7 @@
 - Paola Barbosa
 - Norbey Vásquez
 - Luis Porto
-- Luis Salcedo
+- [Luis Salcedo](profiles/luis-salcedo-salas.md)
 - Julian López
 - Jose Castrillón
 - Jesús Osorio
