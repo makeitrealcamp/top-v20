@@ -14,7 +14,7 @@
 - Wendy Medina
 - [Santiago Valencia](sprofiles/santiago-valencia-profile.md)
 - Raúl Lara
-- Paola Barbosa
+- [Paola Barbosa](profiles/paola-barbosa.md)
 - Norbey Vásquez
 - Luis Porto
 - [Luis Salcedo](profiles/luis-salcedo-salas.md)
