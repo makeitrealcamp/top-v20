@@ -11,7 +11,7 @@
 - [Emerson Asto](profiles/emerson-asto.md)
 - Diego Cubides
 - Boris Monroy
-- [Dayan Manrique](profiles/mentor-principal.md)
+- [Dayan Manrique](profiles/dayanmanrique.md)
 - Wendy Medina
 - [Santiago Valencia](profiles/santiago-valencia-profile.md)
 - [Raúl Lara](profiles/raul-lara.md)
