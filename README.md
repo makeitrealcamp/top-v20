@@ -6,7 +6,7 @@
 - [Cristian Buitrago](profiles/cristian-buitrago.md)
 
 ## Estudiantes 👩🏻‍💻🧑🏼‍💻
-- Pool Hijuela
+- [Pool Hijuela](profiles/popehiflo.md)
 - [Emerson Asto](profiles/emerson-asto.md)
 - Diego Cubides
 - Boris Monroy
@@ -14,20 +14,20 @@
 - Wendy Medina
 - [Santiago Valencia](profiles/santiago-valencia-profile.md)
 - Raúl Lara
-- Paola Barbosa
+- [Paola Barbosa](profiles/paola-barbosa.md)
 - Norbey Vásquez
 - Luis Porto
 - [Luis Salcedo](profiles/luis-salcedo-salas.md)
 - Julian López
 - Jose Castrillón
 - Jesús Osorio
-- Francisco Huertas
+- [Francisco Huertas](profiles/francisco-huertas.md)
 - Diego Beltrán
 - [Daniel Arteta](profiles/daniel-arteta.md)
 - Cristian Cortés
 - Carlos Vega
 - [Andrés Sástoque](profiles/andres-sastoque.md)
-- Alexander Suarez
+- [Alexander Suarez](profiles/alex-suarez-rodriguez.md)
 - Julian Salamanca
 
 ## Como es un dia de estudio durante el programa TOP?
