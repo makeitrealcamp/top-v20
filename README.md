@@ -2,8 +2,8 @@
 
 ## Mentores 👩🏻‍🏫👨🏼‍🏫
 - [Cristian Moreno](profiles/mentor-principal.md)
-- Mentor 2
-- Mentor 3
+- [Mateo Herrera](profiles/mateo-herrera.md)
+- [Cristian Buitrago](profiles/cristian-buitrago.md)
 
 ## Estudiantes 👩🏻‍💻🧑🏼‍💻
 - Pool Hijuela
@@ -89,7 +89,7 @@ Deberás presentar y aprobar las siguienes misiones:
 5. Proyecto Grupal.
 6. Proyecto Individual.
 
-Los lineamientos para los proyectos individuale y grupales son estos: 
+Los lineamientos para los proyectos individuale y grupales son estos:
 
 **El Proyecto Grupal debe tener:**
 
