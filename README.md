@@ -26,7 +26,7 @@
 - [Daniel Arteta](profiles/daniel-arteta.md)
 - Cristian Cortés
 - Carlos Vega
-- Andrés Sástoque
+- [Andrés Sástoque] (profiles/andres-sastoque.md)
 - Alexander Suarez
 - Julian Salamanca
 
