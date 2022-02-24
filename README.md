@@ -1,13 +1,11 @@
 # Programa Top v20 - Tiempo Compleo
 
 ## Mentores 👩🏻‍🏫👨🏼‍🏫
-
 - [Cristian Moreno](profiles/mentor-principal.md)
 - Mentor 2
 - Mentor 3
 
 ## Estudiantes 👩🏻‍💻🧑🏼‍💻
-
 - Pool Hijuela
 - Emerson Asto
 - Diego Cubides
@@ -35,13 +33,10 @@
 ## Como es un dia de estudio durante el programa TOP?
 
 ### 8:30 am - 10:00 am:
-
 Clase Magistral con mentor principal
 
 ### 10:00 am - 1:30 pm:
-
 Pueden ocurrir varias actividades en este rango de tiempo
-
 - Clase de habilidades blandas
 - Clase de ingles
 - Reuniones con mentores de apoyo
@@ -53,17 +48,13 @@ Pueden ocurrir varias actividades en este rango de tiempo
 - Terminar los retos o misiones que son asignados en clase
 
 ### 01:00 pm - 2:30 pm
-
 Tiempo para almorzar
 
 ### 02:30 pm - 03:30 pm:
-
 Clase Magistral con mentor principal
 
 ### 03:30 pm - 6:30 pm:
-
 Pueden ocurrir varias actividades en este rango de tiempo
-
 - Clase de habilidades blandas
 - Clase de ingles
 - Reuniones con mentores de apoyo
@@ -97,7 +88,6 @@ Deberás presentar y aprobar las siguienes misiones:
 4. Assesment Github.
 5. Proyecto Grupal.
 6. Proyecto Individual.
-
 Los lineamientos para los proyectos individuale y grupales son estos:
 
 **El Proyecto Grupal debe tener:**
