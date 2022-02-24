@@ -21,7 +21,7 @@
 - Julian López
 - Jose Castrillón
 - Jesús Osorio
-- Francisco Huertas
+- [Francisco Huertas](profiles/francisco-huertas.md)
 - Diego Beltrán
 - [Daniel Arteta](profiles/daniel-arteta.md)
 - Cristian Cortés
