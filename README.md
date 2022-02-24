@@ -15,7 +15,7 @@
 - Santiago Valencia
 - Raúl Lara
 - Paola Barbosa
-- Norbey Vásquez
+- [Norbey Vásquez](profiles/norbey-vasquez.md)
 - Luis Porto
 - Luis Salcedo
 - Julian López
