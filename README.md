@@ -12,7 +12,7 @@
 - Emerson Asto
 - Diego Cubides
 - Boris Monroy
-- [Dayan Manrique](profiles/mentor-principal.md)
+- [Dayan Manrique](profiles/dayanmanrique.md)
 - Wendy Medina
 - Santiago Valencia
 - Raúl Lara
