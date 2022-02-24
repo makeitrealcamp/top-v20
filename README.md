@@ -28,7 +28,7 @@
 - Carlos Vega
 - [Andrés Sástoque](profiles/andres-sastoque.md)
 - [Alexander Suarez](profiles/alex-suarez-rodriguez.md)
-- Julian Salamanca
+- [Julian Salamanca](profiles/julian-salamanca.md) 
 
 ## Como es un dia de estudio durante el programa TOP?
 
