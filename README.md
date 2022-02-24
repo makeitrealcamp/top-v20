@@ -19,7 +19,7 @@
 - Luis Porto
 - Luis Salcedo
 - Julian López
-- Jose Castrillón
+- [Jose Castrillón](jose-castrillon-profile.md)
 - Jesús Osorio
 - Francisco Huertas
 - Diego Beltrán
