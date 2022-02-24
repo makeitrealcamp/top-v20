@@ -6,7 +6,7 @@
 - [Cristian Buitrago](profiles/cristian-buitrago.md)
 
 ## Estudiantes 👩🏻‍💻🧑🏼‍💻
-- Pool Hijuela
+- [Pool Hijuela](profiles/popehiflo.md)
 - [Emerson Asto](profiles/emerson-asto.md)
 - Diego Cubides
 - Boris Monroy
