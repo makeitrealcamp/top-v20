@@ -12,7 +12,7 @@
 - Boris Monroy
 - Dayan Manrique
 - Wendy Medina
-- [Santiago Valencia](profile/santiago-valencia-profile.md)
+- [Santiago Valencia](profiles/santiago-valencia-profile.md)
 - Raúl Lara
 - Paola Barbosa
 - Norbey Vásquez
