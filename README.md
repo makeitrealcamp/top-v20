@@ -23,7 +23,7 @@
 - Jesús Osorio
 - Francisco Huertas
 - Diego Beltrán
-- Daniel Arteta
+- [Daniel Arteta](profiles/daniel-arteta.md)
 - Cristian Cortés
 - Carlos Vega
 - Andrés Sástoque
