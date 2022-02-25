@@ -2,33 +2,33 @@
 
 ## Mentores 👩🏻‍🏫👨🏼‍🏫
 - [Cristian Moreno](profiles/mentor-principal.md)
-- Mentor 2
-- Mentor 3
+- [Mateo Herrera](profiles/mateo-herrera.md)
+- [Cristian Buitrago](profiles/cristian-buitrago.md)
 
 ## Estudiantes 👩🏻‍💻🧑🏼‍💻
-- Pool Hijuela
-- Emerson Asto
+- [Pool Hijuela](profiles/popehiflo.md)
+- [Emerson Asto](profiles/emerson-asto.md)
 - Diego Cubides
-- Boris Monroy
-- Dayan Manrique
+- [Boris Monroy](profiles/boris-monroy.md)
+- [Dayan Manrique](profiles/dayanmanrique.md)
 - Wendy Medina
-- Santiago Valencia
+- [Santiago Valencia](profiles/santiago-valencia-profile.md)
 - Raúl Lara
-- Paola Barbosa
-- Norbey Vásquez
+- [Paola Barbosa](profiles/paola-barbosa.md)
+- [Norbey Vásquez](profiles/norbey-vasquez.md)
 - Luis Porto
-- Luis Salcedo
-- Julian López
-- [Jose Castrillón](jose-castrillon-profile.md)
-- Jesús Osorio
-- Francisco Huertas
+- [Luis Salcedo](profiles/luis-salcedo-salas.md)
+- [Julián López](profiles/julian-lopez.md)
+- [Jose Castrillón](profiles/jose-castrillon-profile.md)
+- [Jesús Osorio](profiles/jesus-osorio.md)
+- [Francisco Huertas](profiles/francisco-huertas.md)
 - Diego Beltrán
-- Daniel Arteta
+- [Daniel Arteta](profiles/daniel-arteta.md)
 - Cristian Cortés
 - Carlos Vega
-- Andrés Sástoque
-- Alexander Suarez
-- Julian Salamanca
+- [Andrés Sástoque](profiles/andres-sastoque.md)
+- [Alexander Suarez](profiles/alex-suarez-rodriguez.md)
+- [Julian Salamanca](profiles/julian-salamanca.md) 
 
 ## Como es un dia de estudio durante el programa TOP?
 
@@ -89,7 +89,7 @@ Deberás presentar y aprobar las siguienes misiones:
 5. Proyecto Grupal.
 6. Proyecto Individual.
 
-Los lineamientos para los proyectos individuale y grupales son estos: 
+Los lineamientos para los proyectos individuale y grupales son estos:
 
 **El Proyecto Grupal debe tener:**
 
@@ -113,5 +113,5 @@ Los lineamientos para los proyectos individuale y grupales son estos:
     1. Introducción (Nombre del proyecto, URL’s).
     2. Descripción de la aplicación.
     3. Metodología (Jira, Github, SCRUM, sprintes)
-    4. Tecnologías (React, Material, Express, [Socket.io](http://socket.io/), MongoDB, )
+    4. Tecnologías (React, Material, Express, [Socket.io](http://socket.io/), MongoDB, )
     5. Diagrama de como esta distribuida su aplicacion (arquitectura) backend, frontend, servicios extras
