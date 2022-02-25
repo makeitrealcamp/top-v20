@@ -15,7 +15,7 @@
 - [Santiago Valencia](profiles/santiago-valencia-profile.md)
 - Raúl Lara
 - [Paola Barbosa](profiles/paola-barbosa.md)
-- Norbey Vásquez
+- [Norbey Vásquez](profiles/norbey-vasquez.md)
 - Luis Porto
 - [Luis Salcedo](profiles/luis-salcedo-salas.md)
 - [Julián López](profiles/julian-lopez.md)
