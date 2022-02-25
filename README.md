@@ -9,7 +9,7 @@
 - [Pool Hijuela](profiles/popehiflo.md)
 - [Emerson Asto](profiles/emerson-asto.md)
 - Diego Cubides
-- Boris Monroy
+- [Boris Monroy](profiles/boris-monroy.md)
 - [Dayan Manrique](profiles/dayanmanrique.md)
 - Wendy Medina
 - [Santiago Valencia](profiles/santiago-valencia-profile.md)
