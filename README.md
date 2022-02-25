@@ -9,7 +9,7 @@
 - [Pool Hijuela](profiles/popehiflo.md)
 - [Emerson Asto](profiles/emerson-asto.md)
 - [Diego Cubides](profiles/diego-cubides.md)
-- Boris Monroy
+- [Boris Monroy](profiles/boris-monroy.md)
 - [Dayan Manrique](profiles/dayanmanrique.md)
 - Wendy Medina
 - [Santiago Valencia](profiles/santiago-valencia-profile.md)
@@ -20,7 +20,7 @@
 - [Luis Salcedo](profiles/luis-salcedo-salas.md)
 - [Julián López](profiles/julian-lopez.md)
 - Jose Castrillón
-- Jesús Osorio
+- [Jesús Osorio](profiles/jesus-osorio.md)
 - [Francisco Huertas](profiles/francisco-huertas.md)
 - Diego Beltrán
 - [Daniel Arteta](profiles/daniel-arteta.md)
