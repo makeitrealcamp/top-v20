@@ -1,8 +1,13 @@
-/*
-Cheap Products
-
-Write a function called `cheapProducts` that receives an array of products as an argument. Each product has a `name` and a `price`. Return an array with the name of the products which value is less than 10. If there are no products that meet this condition then return an empty array.
-*/
+/**
+ * Cheap Products
+ * Write a function called `cheapProducts` that receives an
+ * array of products as an argument. Each product has a `name`
+ * and a `price`. Return an array with the name of the products
+ * which value is less than 10. If there are no products that
+ * meet this condition then return an empty array.
+ * @param: adasdas
+ * @return: asdasdsa
+ */
 
 const products1 = [ 
   { name: "rice", price: 10 }, 
