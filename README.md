@@ -78,6 +78,10 @@ Pueden ocurrir varias actividades en este rango de tiempo
 - **Modulo 9**: CI/CD del backend y el frontend.
 - **Modulo 10**: `DEMO Publico` 🎊🎉💻🎊🎉
 
+## Grabacion de las clases 🎥👨🏼‍🏫
+
+- [Clases](classes.md)
+
 ## Requisitos para culminar satisfactoriamente el programa
 
 Deberás presentar y aprobar las siguienes misiones:
