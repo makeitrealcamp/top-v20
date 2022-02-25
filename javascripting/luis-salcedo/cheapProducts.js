@@ -15,6 +15,7 @@ const products2 = [
   { name: "eggs", price: 37 },
 ];
 
+
 function cheapProducts(array) {
     return array.filter(product => product.price < 10 )
 }   
