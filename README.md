@@ -20,7 +20,7 @@
 - [Luis Salcedo](profiles/luis-salcedo-salas.md)
 - [Julián López](profiles/julian-lopez.md)
 - Jose Castrillón
-- Jesús Osorio
+- [Jesús Osorio](profiles/jesus-osorio.md)
 - [Francisco Huertas](profiles/francisco-huertas.md)
 - Diego Beltrán
 - [Daniel Arteta](profiles/daniel-arteta.md)
