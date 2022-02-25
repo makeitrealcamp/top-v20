@@ -26,7 +26,7 @@ function cheapProducts(arr) {
 
     for (let i = 0; i < arr.length; i++) {
         if(arr[i].price<10){
-            resultado.push(resultado[i].name)
+            resultado.push(arr[i].name)
         }
         
     }
@@ -35,3 +35,20 @@ function cheapProducts(arr) {
 
 console.log(cheapProducts(products1)); // ['panela', 'eggs']
 console.log(cheapProducts(products2)); // []
+
+/*function cheapProducts(arr){
+    for (const product of arr){
+        if (product.price<10) {
+            cheapProducts.push(product.name)
+        }
+    }
+    return cheapProducts
+}
+console.log(cheapProducts(products1)); // ['panela', 'eggs']
+console.log(cheapProducts(products2)); // []*/
+
+/*function cheapProducts(array) {
+    return array.filter(product => product.price < 10 )
+}*/
+
+
