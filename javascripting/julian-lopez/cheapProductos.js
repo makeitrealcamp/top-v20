@@ -22,13 +22,17 @@ console.log(cheapProducts(products1)); // ['panela', 'eggs']
 console.log(cheapProducts(products2)); // []
 
 function cheapProducts(arr){
-    //const keys = Object.keys(arr);
-    //console.log(keys)
+    /*
     let arr_aux=[];
     for (let index = 0; index < arr.length; index++) {
         if (arr[index].price < 10) {
             arr_aux.push(arr[index].name);
         }
     }
-    return arr_aux;
+    */
+   const arr_aux = arr
+   .filter(product => product.price < 10)
+   .map(product => product.name);
+   
+   return arr_aux;
 }
