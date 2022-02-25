@@ -28,7 +28,11 @@ const recipe = {
     { name: "eggs", price: 37 },
   ];
 
-
+/**
+ * 
+ * @param {array} arr 
+ * @returns return products in array < 10
+ */
   function cheapProducts(arr){
       let arrayNew = [];
       for(let i = 0; i < arr.length; i++){
