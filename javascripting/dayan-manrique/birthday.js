@@ -1,2 +1,8 @@
+import { formatDistanceToNowStrict } from "date-fns";
+
 // find how many days till you birthday 1 exercise
-formatDistance(subDays(new Date(), 3), new Date(), { addSuffix: true });
+
+const dateDistantece = formatDistanceToNowStrict(new Date(2022, 2, 29), {
+  unit: "day",
+});
+console.log(dateDistantece);
