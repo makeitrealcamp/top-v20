@@ -1,0 +1,11 @@
+{
+  "name": "diego-beltran",
+  "version": "1.0.0",
+  "description": "practica node",
+  "main": "diegofile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Diego Beltran",
+  "license": "ISC"
+}
