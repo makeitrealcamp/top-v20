@@ -17,7 +17,7 @@ const products2 = [
   { name: "pasta", price: 16 }, 
   { name: "eggs", price: 37 },
 ];
-
+/*
 function cheapProducts(products){
   const newArr=[];
   for(const product of products){//al utilizar "for of" se debe de crear una nuva variable la cual omenzara a iterar
@@ -26,6 +26,15 @@ function cheapProducts(products){
     }
   }
   return newArr;
+}*/
+function cheapProducts(products){
+  const newArr=[]; 
+  for (let key in products){
+    if(products[key].price<10){
+      newArr.push(products[key].name)
+    }
+  }
+  return newArr
 }
 console.log(cheapProducts(products1)); // ['panela', 'eggs'] 
 console.log(cheapProducts(products2)); // []
