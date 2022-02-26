@@ -36,8 +36,8 @@ function cheapProducts(arr){
     }
     */
    const arr_aux = arr
-   .filter(product => product.price < 10)
-   .map(product => product.name);
+   arr_aux.filter(product => product.price < 10)
+   arr_aux.map(product => product.name);
    
    return arr_aux;
 }
