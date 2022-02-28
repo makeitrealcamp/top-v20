@@ -1,2 +1,2 @@
-const ejemplo=123456789
-console.log(ejemplo)
+const example=123456789
+console.log(example)
