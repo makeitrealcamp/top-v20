@@ -27,14 +27,26 @@ function cheapProducts(products){
   }
   return newArr;
 }*/
+/*
 function cheapProducts(products){
   const newArr=[]; 
   for (let key in products){
+    //console.log(key)
     if(products[key].price<10){
       newArr.push(products[key].name)
     }
   }
   return newArr
+}*/
+function cheapProducts(products){
+
+  const produc=products.filter(function(product){
+    return product.price<10
+  })
+.map(function(product){
+  return product.name;
+})
+return produc
 }
 console.log(cheapProducts(products1)); // ['panela', 'eggs'] 
 console.log(cheapProducts(products2)); // []
