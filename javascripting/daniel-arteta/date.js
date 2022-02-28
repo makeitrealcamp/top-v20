@@ -1,12 +1,11 @@
-import { format, compareAsc } from 'date-fns'
+import { differenceInDays } from 'date-fns'
 
-format(new Date(2014, 1, 11), 'MM/dd/yyyy')
-//=> '02/11/2014'
+function cuantoFalta(day, month){
+  let birthday = new Date(new Date().getFullYear(), month - 1, day)
+  let result = differenceInDays(birthday, new Date())
+  return result > 0 ? console.log(`Faltan ${result} días para tu cumpleañsos.`):
+    result < 0 ? console.log('Esa fecha ya pasó, te quedamos debiendo el regalito.'):
+    console.log('¡¡¡Feliz Cumpleaños!!!')
+}
 
-const dates = [
-  new Date(1995, 6, 2),
-  new Date(1987, 1, 11),
-  new Date(1989, 6, 10),
-]
-console.log(dates.sort(compareAsc))
-
+console.log(cuantoFalta(27, 1))
