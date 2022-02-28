@@ -19,10 +19,10 @@
 - Luis Porto
 - [Luis Salcedo](profiles/luis-salcedo-salas.md)
 - [Julián López](profiles/julian-lopez.md)
-- Jose Castrillón
+- [Jose Castrillón](profiles/jose-castrillon-profile.md)
 - [Jesús Osorio](profiles/jesus-osorio.md)
 - [Francisco Huertas](profiles/francisco-huertas.md)
-- Diego Beltrán
+- [Diego Beltrán](profiles/diego-beltran.md)
 - [Daniel Arteta](profiles/daniel-arteta.md)
 - Cristian Cortés
 - Carlos Vega
@@ -77,6 +77,10 @@ Pueden ocurrir varias actividades en este rango de tiempo
 - **Modulo 8**: Envio de email e Integración con pasarela de pagos.
 - **Modulo 9**: CI/CD del backend y el frontend.
 - **Modulo 10**: `DEMO Publico` 🎊🎉💻🎊🎉
+
+## Grabacion de las clases 🎥👨🏼‍🏫
+
+- [Clases](classes.md)
 
 ## Requisitos para culminar satisfactoriamente el programa
 
