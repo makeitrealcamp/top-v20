@@ -6,29 +6,29 @@
 - [Cristian Buitrago](profiles/cristian-buitrago.md)
 
 ## Estudiantes 👩🏻‍💻🧑🏼‍💻
-- Pool Hijuela
-- Emerson Asto
+- [Pool Hijuela](profiles/popehiflo.md)
+- [Emerson Asto](profiles/emerson-asto.md)
 - Diego Cubides
-- Boris Monroy
-- Dayan Manrique
+- [Boris Monroy](profiles/boris-monroy.md)
+- [Dayan Manrique](profiles/dayanmanrique.md)
 - Wendy Medina
-- Santiago Valencia
+- [Santiago Valencia](profiles/santiago-valencia-profile.md)
 - Raúl Lara
-- Paola Barbosa
-- Norbey Vásquez
+- [Paola Barbosa](profiles/paola-barbosa.md)
+- [Norbey Vásquez](profiles/norbey-vasquez.md)
 - Luis Porto
-- Luis Salcedo
-- Julian López
-- Jose Castrillón
-- Jesús Osorio
-- Francisco Huertas
-- Diego Beltrán
-- Daniel Arteta
+- [Luis Salcedo](profiles/luis-salcedo-salas.md)
+- [Julián López](profiles/julian-lopez.md)
+- [Jose Castrillón](profiles/jose-castrillon-profile.md)
+- [Jesús Osorio](profiles/jesus-osorio.md)
+- [Francisco Huertas](profiles/francisco-huertas.md)
+- [Diego Beltrán](profiles/diego-beltran.md)
+- [Daniel Arteta](profiles/daniel-arteta.md)
 - Cristian Cortés
 - Carlos Vega
-- Andrés Sástoque
-- Alexander Suarez
-- Julian Salamanca
+- [Andrés Sástoque](profiles/andres-sastoque.md)
+- [Alexander Suarez](profiles/alex-suarez-rodriguez.md)
+- [Julian Salamanca](profiles/julian-salamanca.md) 
 
 ## Como es un dia de estudio durante el programa TOP?
 
@@ -78,6 +78,10 @@ Pueden ocurrir varias actividades en este rango de tiempo
 - **Modulo 9**: CI/CD del backend y el frontend.
 - **Modulo 10**: `DEMO Publico` 🎊🎉💻🎊🎉
 
+## Grabacion de las clases 🎥👨🏼‍🏫
+
+- [Clases](classes.md)
+
 ## Requisitos para culminar satisfactoriamente el programa
 
 Deberás presentar y aprobar las siguienes misiones:
@@ -113,5 +117,5 @@ Los lineamientos para los proyectos individuale y grupales son estos:
     1. Introducción (Nombre del proyecto, URL’s).
     2. Descripción de la aplicación.
     3. Metodología (Jira, Github, SCRUM, sprintes)
-    4. Tecnologías (React, Material, Express, [Socket.io](http://socket.io/), MongoDB, )
+    4. Tecnologías (React, Material, Express, [Socket.io](http://socket.io/), MongoDB, )
     5. Diagrama de como esta distribuida su aplicacion (arquitectura) backend, frontend, servicios extras
