@@ -1,4 +1,4 @@
-const { format, compareAsc } = require('date-fns')
+import { format, compareAsc } from 'date-fns'
 
 format(new Date(2014, 1, 11), 'MM/dd/yyyy')
 //=> '02/11/2014'
