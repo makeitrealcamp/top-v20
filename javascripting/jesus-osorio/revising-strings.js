@@ -1,3 +1,3 @@
-let example='this example exists'
-example= example.replace('exists', 'is awesome')
+let example='pizza is alright'
+example= example.replace('alright', 'wonderful')
 console.log(example)
