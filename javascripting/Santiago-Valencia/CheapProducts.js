@@ -21,9 +21,10 @@ const products2 = [
   { name: "eggs", price: 37 },
 ];
 function cheapProducts(arr){
-const cheapProducts = arr
-.filter(product => product.price < 10)
-.map(product => product.name)
+  const cheapProducts = arr
+  .filter(product => product.price < 10)
+  .map(product => product.name);
+  return cheapProducts;
 }
 console.log(cheapProducts(products1)); // ['panela', 'eggs'] 
 console.log(cheapProducts(products2)); // []
