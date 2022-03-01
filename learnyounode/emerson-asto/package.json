@@ -9,6 +9,7 @@
   "author": "emerson-asto",
   "license": "ISC",
   "dependencies": {
-    "bl": "^5.0.0"
+    "bl": "^5.0.0",
+    "through2-map": "^3.0.0"
   }
 }
