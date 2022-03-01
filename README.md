@@ -13,7 +13,7 @@
 - [Dayan Manrique](profiles/dayanmanrique.md)
 - [Wendy Medina](profiles/wendy-medina.md)
 - [Santiago Valencia](profiles/santiago-valencia-profile.md)
-- Raúl Lara
+- [Raúl Lara](profiles/raul-lara-profile.md)
 - [Paola Barbosa](profiles/paola-barbosa.md)
 - [Norbey Vásquez](profiles/norbey-vasquez.md)
 - Luis Porto
