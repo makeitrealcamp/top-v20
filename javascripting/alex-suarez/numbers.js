@@ -1,2 +1,2 @@
-let example=123456789
-console.log(example)
+let ejemplo=123456789;
+console.log(ejemplo);
