@@ -1,4 +1,4 @@
-const mymodule = require('./mymodule.js');
+const mymodule = require('./06-mymodule.js');
 
 mymodule(process.argv[2], process.argv[3], (err, data) => {
   if (err) {
