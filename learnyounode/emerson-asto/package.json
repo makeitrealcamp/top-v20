@@ -1,0 +1,14 @@
+{
+  "name": "emerson-asto",
+  "version": "1.0.0",
+  "description": "",
+  "main": "01-hello-world.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "emerson-asto",
+  "license": "ISC",
+  "dependencies": {
+    "bl": "^5.0.0"
+  }
+}
