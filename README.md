@@ -8,7 +8,7 @@
 ## Estudiantes 👩🏻‍💻🧑🏼‍💻
 - [Pool Hijuela](profiles/popehiflo.md)
 - [Emerson Asto](profiles/emerson-asto.md)
-- Diego Cubides
+- [Diego Cubides](profiles/diego-cubides.md)
 - [Boris Monroy](profiles/boris-monroy.md)
 - [Dayan Manrique](profiles/dayanmanrique.md)
 - Wendy Medina
