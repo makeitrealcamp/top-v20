@@ -11,7 +11,7 @@
 - [Diego Cubides](profiles/diego-cubides.md)
 - [Boris Monroy](profiles/boris-monroy.md)
 - [Dayan Manrique](profiles/dayanmanrique.md)
-- Wendy Medina
+- [Wendy Medina](profiles/wendy-medina.md)
 - [Santiago Valencia](profiles/santiago-valencia-profile.md)
 - Raúl Lara
 - [Paola Barbosa](profiles/paola-barbosa.md)
@@ -28,7 +28,7 @@
 - Carlos Vega
 - [Andrés Sástoque](profiles/andres-sastoque.md)
 - [Alexander Suarez](profiles/alex-suarez-rodriguez.md)
-- [Julian Salamanca](profiles/julian-salamanca.md) 
+- [Julian Salamanca](profiles/julian-salamanca.md)
 
 ## Como es un dia de estudio durante el programa TOP?
 
