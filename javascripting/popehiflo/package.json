@@ -1,0 +1,15 @@
+{
+  "name": "popehiflo-javascripting",
+  "version": "1.0.0",
+  "description": "examples with JS",
+  "main": "cheapProducts.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "popehiflo",
+  "license": "MIT",
+  "dependencies": {
+    "date-fns": "^2.28.0"
+  }
+}
