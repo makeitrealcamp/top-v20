@@ -25,7 +25,7 @@
 - [Diego Beltrán](profiles/diego-beltran.md)
 - [Daniel Arteta](profiles/daniel-arteta.md)
 - Cristian Cortés
-- Carlos Vega
+- [Carlos Vega](profiles/carlos-vega.md)
 - [Andrés Sástoque](profiles/andres-sastoque.md)
 - [Alexander Suarez](profiles/alex-suarez-rodriguez.md)
 - [Julian Salamanca](profiles/julian-salamanca.md)
