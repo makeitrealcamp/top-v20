@@ -18,7 +18,11 @@ const products2 = [
     {name:'eggs', price:37},
 ];
 
-
+/**
+ * 
+ * @param {*} arr 
+ * @returns 
+ */
 function cheapProducts(arr){
     let count=[];
     for (let index = 0; index < arr.length; index++) {
