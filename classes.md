@@ -14,7 +14,18 @@
 - **Ejemplos con Nodejs**: [https://makeitreal.s3.amazonaws.com/videos/85737501506/2022-02-25/wh-x67eAu.mp4](https://makeitreal.s3.amazonaws.com/videos/85737501506/2022-02-25/wh-x67eAu.mp4)
 - **Javascripting**: [https://makeitreal.s3.amazonaws.com/videos/85737501506/2022-02-28/v1aIpdcBv.mp4](https://makeitreal.s3.amazonaws.com/videos/85737501506/2022-02-28/v1aIpdcBv.mp4)
 - **Introduction a Node.js - Learnyounode:** [https://makeitreal.s3.amazonaws.com/videos/85737501506/2022-03-01/4PD-GlWqg.mp4](https://makeitreal.s3.amazonaws.com/videos/85737501506/2022-03-01/4PD-GlWqg.mp4)
+- **Introduccion a Callbacks** 🤯 [https://makeitreal.s3.amazonaws.com/videos/85737501506/2022-03-01/SWE1yeTHB.mp4](https://makeitreal.s3.amazonaws.com/videos/85737501506/2022-03-01/SWE1yeTHB.mp4)
 - **ENTREGABLE 1:** [https://makeitreal.s3.amazonaws.com/videos/85737501506/2022-02-28/8vrYysEKg.mp4](https://makeitreal.s3.amazonaws.com/videos/85737501506/2022-02-28/8vrYysEKg.mp4)
 
 ## Modulo 2:
-- WIP
+
+- **Fundamentos de CSS**: [https://makeitreal.s3.amazonaws.com/videos/85737501506/2022-03-02/hdzSEnZ9i.mp4](https://makeitreal.s3.amazonaws.com/videos/85737501506/2022-03-02/hdzSEnZ9i.mp4)
+- **BEM notation** [https://makeitreal.s3.amazonaws.com/videos/85737501506/2022-03-02/qym9eh9PH.mp4](https://makeitreal.s3.amazonaws.com/videos/85737501506/2022-03-02/qym9eh9PH.mp4)
+- **Flexbox**: [https://makeitreal.s3.amazonaws.com/videos/85737501506/2022-03-03/DVFweZJ5U.mp4](https://makeitreal.s3.amazonaws.com/videos/85737501506/2022-03-03/DVFweZJ5U.mp4)
+- **Sass - CSS with superpowers** [https://makeitreal.s3.amazonaws.com/videos/85737501506/2022-03-03/u-pXOY9SM.mp4](https://makeitreal.s3.amazonaws.com/videos/85737501506/2022-03-03/u-pXOY9SM.mp4)
+- **Grid CSS**: [https://makeitreal.s3.amazonaws.com/videos/85737501506/2022-03-04/4fDDuxddJ.mp4](https://makeitreal.s3.amazonaws.com/videos/85737501506/2022-03-04/4fDDuxddJ.mp4)
+- **JavaScript to Know for React:** [https://makeitreal.s3.amazonaws.com/videos/85737501506/2022-03-04/42nyB1G3B.mp4](https://makeitreal.s3.amazonaws.com/videos/85737501506/2022-03-04/42nyB1G3B.mp4)
+
+## Modulo 3:
+
+- **Introduccion a React**: [https://makeitreal.s3.amazonaws.com/videos/85737501506/2022-03-07/t-uhRTFhI.mp4](https://makeitreal.s3.amazonaws.com/videos/85737501506/2022-03-07/t-uhRTFhI.mp4)
