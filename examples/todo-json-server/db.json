@@ -1,0 +1,19 @@
+{
+  "todos": [
+    {
+      "id": 1,
+      "task": "Install json server",
+      "complete": true
+    },
+    {
+      "task": "register task",
+      "complete": false,
+      "id": 2
+    },
+    {
+      "task": "update data",
+      "complete": false,
+      "id": 3
+    }
+  ]
+}
