@@ -1,7 +1,7 @@
 const ToDo = ({ todo, handleToggle }) => {
   const handleClick = (e) => {
     e.preventDefault();
-    handleToggle(e.currentTarget.id);
+    handleToggle(todo);
   };
 
   return (

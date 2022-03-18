@@ -1,7 +1,12 @@
 import { useState } from "react";
+import { useDispatch, useSelector } from 'react-redux';
 
-const ToDoForm = ({ addTask }) => {
+import { addTodo } from '../store/actions';
+
+const ToDoForm = () => {
   const [userInput, setUserInput] = useState("");
+  const toDoList = useSelector(state => state.todos);
+  const dispatch = useDispatch();
 
   const handleChange = (e) => {
     setUserInput(e.currentTarget.value);
@@ -9,7 +14,9 @@ const ToDoForm = ({ addTask }) => {
 
   const handleSubmit = (e) => {
     e.preventDefault();
-    addTask(userInput);
+    const newTodo = { id: toDoList.length + 1, task: userInput, complete: false };
+
+    dispatch(addTodo(newTodo));
     setUserInput("");
   };
 
@@ -21,7 +28,7 @@ const ToDoForm = ({ addTask }) => {
         onChange={handleChange}
         placeholder="Enter task..."
       />
-      <button>Submit</button>
+      <button type="submit">Submit</button>
     </form>
   );
 };
