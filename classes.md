@@ -54,3 +54,18 @@
 ## Modulo 5:
 
 - **Introduccion a bases de datos:** [https://makeitreal.s3.amazonaws.com/videos/85737501506/2022-03-22/oijczjxaj.mp4](https://makeitreal.s3.amazonaws.com/videos/85737501506/2022-03-22/oijczjxaj.mp4)
+- **Intro a servidor nodejs**: [https://makeitreal.s3.amazonaws.com/videos/85737501506/2022-03-23/zQxT6VsJX.mp4](https://makeitreal.s3.amazonaws.com/videos/85737501506/2022-03-23/zQxT6VsJX.mp4)
+- **Express JSON**: [https://makeitreal.s3.amazonaws.com/videos/85737501506/2022-03-23/hXu_ywhal.mp4](https://makeitreal.s3.amazonaws.com/videos/85737501506/2022-03-23/hXu_ywhal.mp4)
+- **node js scaffolding**
+ [https://makeitreal.s3.amazonaws.com/videos/85737501506/2022-03-24/mmDNw_gq8.mp4](https://makeitreal.s3.amazonaws.com/videos/85737501506/2022-03-24/mmDNw_gq8.mp4)
+- **Mongoose**: [https://makeitreal.s3.amazonaws.com/videos/85737501506/2022-03-24/51GBZIUcx.mp4](https://makeitreal.s3.amazonaws.com/videos/85737501506/2022-03-24/51GBZIUcx.mp4)
+- **API CRUD** [https://makeitreal.s3.amazonaws.com/videos/85737501506/2022-03-25/ygTNA8Kk0.mp4](https://makeitreal.s3.amazonaws.com/videos/85737501506/2022-03-25/ygTNA8Kk0.mp4)
+- **Modelado de datos NoSQL:** [https://makeitreal.s3.amazonaws.com/videos/85737501506/2022-03-25/SPDjG_G_N.mp4](https://makeitreal.s3.amazonaws.com/videos/85737501506/2022-03-25/SPDjG_G_N.mp4)
+- **ENTREGABLE 5**: [https://makeitreal.s3.amazonaws.com/videos/85737501506/2022-03-28/X9gdOdKTW.mp4](https://makeitreal.s3.amazonaws.com/videos/85737501506/2022-03-28/X9gdOdKTW.mp4)
+
+## Modulo 6:
+
+- **Autenticación en NodeJS**: [https://makeitreal.s3.amazonaws.com/videos/85737501506/2022-03-28/gGZqGMRwK.mp4](https://makeitreal.s3.amazonaws.com/videos/85737501506/2022-03-28/gGZqGMRwK.mp4)
+- **Autorización con middleware:** [https://makeitreal.s3.amazonaws.com/videos/85737501506/2022-03-29/OkWZeveUo.mp4](https://makeitreal.s3.amazonaws.com/videos/85737501506/2022-03-29/OkWZeveUo.mp4)
+- **Deploy en Heroku:** [https://makeitreal.s3.amazonaws.com/videos/85737501506/2022-03-30/9ZpLBQUxW.mp4](https://makeitreal.s3.amazonaws.com/videos/85737501506/2022-03-30/9ZpLBQUxW.mp4)
+- **Introducción a testing:** [https://makeitreal.s3.amazonaws.com/videos/85737501506/2022-03-30/nHjZjlQTd.mp4](https://makeitreal.s3.amazonaws.com/videos/85737501506/2022-03-30/nHjZjlQTd.mp4)
