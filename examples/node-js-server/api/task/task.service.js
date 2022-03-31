@@ -55,21 +55,25 @@ function createTask(task) {
 }
 
 function updateTask(id, task) {
-  const oldTask = tasks.find(task => task.id === Number(id));
+  const findTask = tasks.find(task => task.id === Number(id));
 
-  if (!oldTask) {
+  if (!findTask) {
     return null;
   }
 
+  let taskToReturn = null
   tasks.forEach(oldTask => {
     if (oldTask.id === Number(id)) {
-      oldTask.title = task.title;
-      oldTask.description = task.description;
-      oldTask.completed = task.completed;
+      oldTask = {
+        ...oldTask,
+        ...task,
+      }
+
+      taskToReturn = oldTask;
     }
   });
 
-  return task;
+  return taskToReturn;
 }
 
 module.exports = {

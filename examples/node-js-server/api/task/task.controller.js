@@ -29,7 +29,7 @@ function handlerDeleteTask(req, res) {
   if (!task) {
     res.status(404).json({ message: `Task not found with id: ${id}` });
   } else {
-    res.json(task);
+    res.status(204).json(task);
   }
 }
 
