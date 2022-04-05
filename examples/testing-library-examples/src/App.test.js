@@ -1,4 +1,6 @@
 import { render, screen } from '@testing-library/react';
+import userEvent from '@testing-library/user-event'
+import axios from 'axios';
 
 import App from './App';
 
@@ -7,8 +9,8 @@ test('renders learn react link', () => {
   render(<App />);
 
   // Act
-  const linkElement = screen.getByText(/learn react/i);
+
 
   // Assert
-  expect(linkElement).toBeInTheDocument();
+
 });
