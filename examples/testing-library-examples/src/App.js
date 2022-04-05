@@ -29,8 +29,6 @@ function App() {
     }
   }
 
-  console.log('Render')
-
   return (
     <div className="App">
 
