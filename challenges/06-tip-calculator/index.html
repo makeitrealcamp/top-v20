@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>07 - Tip Calculator || Advent of JavaScript</title>
+    <link rel="stylesheet" href="styles.css" />
+</head>
+
+<body>
+
+    <div class="wrapper">
+
+        <div class="tip-amount">
+            <div class="label">Tip Amount</div>
+            <div class="dollars"><sup>$</sup><span id="tip-amount">15.30</span></div>
+        </div>
+        <div class="total-per-person">
+            <div class="label">Total Per Person</div>
+            <div class="dollars"><sup>$</sup><span id="total-per-person">39.11</span></div>
+        </div>
+
+        <div class="input-fields">
+            <div class="bill-amount">
+                <div class="field">
+                    <input type="text" id="bill-amount" name="bill-amount" value="102.02" />
+                </div>
+                <div class="label">Bill Amount</div>
+            </div>
+            <div class="number-of-people">
+                <div class="field">
+                    <input type="text" id="number-of-people" name="number-of-people" value="3" />
+                </div>
+                <div class="label">Number of People</div>
+            </div>
+        </div>
+
+        <div class="tip-percentages">
+            <div>
+                <input type="radio" name="tip" value="5%" id="five-percent" />
+                <label for="five-percent">
+                    5%
+                </label>
+            </div>
+            <div>
+                <input type="radio" name="tip" value="10%" id="ten-percent" />
+                <label for="ten-percent">
+                    10%
+                </label>
+            </div>
+            <div>
+                <input type="radio" name="tip" checked value="15%" id="fifteen-percent" />
+                <label for="fifteen-percent">
+                    15%
+                </label>
+            </div>
+            <div>
+                <input type="radio" name="tip" value="20%" id="twenty-percent" />
+                <label for="twenty-percent">
+                    20%
+                </label>
+            </div>
+        </div>
+        <div class="button-wrapper">
+            <button id="calculate">Calculate</button>
+        </div>
+    </div>
+    <script src="app.js"></script>
+
+</body>
+
+</html>
