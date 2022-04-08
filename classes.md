@@ -69,3 +69,20 @@
 - **Autorización con middleware:** [https://makeitreal.s3.amazonaws.com/videos/85737501506/2022-03-29/OkWZeveUo.mp4](https://makeitreal.s3.amazonaws.com/videos/85737501506/2022-03-29/OkWZeveUo.mp4)
 - **Deploy en Heroku:** [https://makeitreal.s3.amazonaws.com/videos/85737501506/2022-03-30/9ZpLBQUxW.mp4](https://makeitreal.s3.amazonaws.com/videos/85737501506/2022-03-30/9ZpLBQUxW.mp4)
 - **Introducción a testing:** [https://makeitreal.s3.amazonaws.com/videos/85737501506/2022-03-30/nHjZjlQTd.mp4](https://makeitreal.s3.amazonaws.com/videos/85737501506/2022-03-30/nHjZjlQTd.mp4)
+- **JEST**: [https://makeitreal.s3.amazonaws.com/videos/85737501506/2022-03-31/36KatuxS4.mp4](https://makeitreal.s3.amazonaws.com/videos/85737501506/2022-03-31/36KatuxS4.mp4)
+- **SuperTest & Jest**: [https://makeitreal.s3.amazonaws.com/videos/85737501506/2022-03-31/YblSbmtZx.mp4](https://makeitreal.s3.amazonaws.com/videos/85737501506/2022-03-31/YblSbmtZx.mp4)
+- **Conectado el frontend con el Backend:** [https://makeitreal.s3.amazonaws.com/videos/85737501506/2022-04-01/d-SQhAetC.mp4](https://makeitreal.s3.amazonaws.com/videos/85737501506/2022-04-01/d-SQhAetC.mp4)
+- **Conectando Redux en el Frontend y backend:** [https://makeitreal.s3.amazonaws.com/videos/85737501506/2022-04-01/KU2R85JC3.mp4](https://makeitreal.s3.amazonaws.com/videos/85737501506/2022-04-01/KU2R85JC3.mp4)
+- **Redux Thunk**: [https://makeitreal.s3.amazonaws.com/videos/85737501506/2022-04-04/1OWfeagBc.mp4](https://makeitreal.s3.amazonaws.com/videos/85737501506/2022-04-04/1OWfeagBc.mp4)
+- **ENTREGABLE 6:** [https://makeitreal.s3.amazonaws.com/videos/85737501506/2022-04-04/E8B4aNuAb.mp4](https://makeitreal.s3.amazonaws.com/videos/85737501506/2022-04-04/E8B4aNuAb.mp4)
+
+## Modulo 7:
+
+- **Testing Library - Conceptos:** [https://makeitreal.s3.amazonaws.com/videos/85737501506/2022-04-05/YDVyFrw5o.mp4](https://makeitreal.s3.amazonaws.com/videos/85737501506/2022-04-05/YDVyFrw5o.mp4)
+- **RTL - Free Dictionary**: [https://makeitreal.s3.amazonaws.com/videos/85737501506/2022-04-05/VFl4xUEy9.mp4](https://makeitreal.s3.amazonaws.com/videos/85737501506/2022-04-05/VFl4xUEy9.mp4)
+- **Hooks en React:** [https://makeitreal.s3.amazonaws.com/videos/85737501506/2022-04-06/osgHWyI_-.mp4](https://makeitreal.s3.amazonaws.com/videos/85737501506/2022-04-06/osgHWyI_-.mp4)
+- **React Context**: [https://makeitreal.s3.amazonaws.com/videos/85737501506/2022-04-06/FocK3hAWH.mp4](https://makeitreal.s3.amazonaws.com/videos/85737501506/2022-04-06/FocK3hAWH.mp4)
+- **State Management con Context:** [https://makeitreal.s3.amazonaws.com/videos/85737501506/2022-04-07/FQV69YG8r.mp4](https://makeitreal.s3.amazonaws.com/videos/85737501506/2022-04-07/FQV69YG8r.mp4)
+- **Cargar imagenes al servidor y subirlas a cloudinary:** [https://makeitreal.s3.amazonaws.com/videos/85737501506/2022-04-07/WlMlzCsKV.mp4](https://makeitreal.s3.amazonaws.com/videos/85737501506/2022-04-07/WlMlzCsKV.mp4)
+- **Envio de email con NodeMailer:** [https://makeitreal.s3.amazonaws.com/videos/85737501506/2022-04-08/i8y0NbMen.mp4](https://makeitreal.s3.amazonaws.com/videos/85737501506/2022-04-08/i8y0NbMen.mp4)
+- **Sendgrid y verification de cuenta:**: [https://makeitreal.s3.amazonaws.com/videos/85737501506/2022-04-08/sugMEFo3_.mp4](https://makeitreal.s3.amazonaws.com/videos/85737501506/2022-04-08/sugMEFo3_.mp4)
