@@ -67,6 +67,7 @@
 
 - **Autenticación en NodeJS**: [https://makeitreal.s3.amazonaws.com/videos/85737501506/2022-03-28/gGZqGMRwK.mp4](https://makeitreal.s3.amazonaws.com/videos/85737501506/2022-03-28/gGZqGMRwK.mp4)
 - **Autorización con middleware:** [https://makeitreal.s3.amazonaws.com/videos/85737501506/2022-03-29/OkWZeveUo.mp4](https://makeitreal.s3.amazonaws.com/videos/85737501506/2022-03-29/OkWZeveUo.mp4)
+- **Middleware para roles:** [https://makeitreal.s3.amazonaws.com/videos/85737501506/2022-03-29/eg6UzWV2q.mp4](https://makeitreal.s3.amazonaws.com/videos/85737501506/2022-03-29/eg6UzWV2q.mp4)
 - **Deploy en Heroku:** [https://makeitreal.s3.amazonaws.com/videos/85737501506/2022-03-30/9ZpLBQUxW.mp4](https://makeitreal.s3.amazonaws.com/videos/85737501506/2022-03-30/9ZpLBQUxW.mp4)
 - **Introducción a testing:** [https://makeitreal.s3.amazonaws.com/videos/85737501506/2022-03-30/nHjZjlQTd.mp4](https://makeitreal.s3.amazonaws.com/videos/85737501506/2022-03-30/nHjZjlQTd.mp4)
 - **JEST**: [https://makeitreal.s3.amazonaws.com/videos/85737501506/2022-03-31/36KatuxS4.mp4](https://makeitreal.s3.amazonaws.com/videos/85737501506/2022-03-31/36KatuxS4.mp4)
