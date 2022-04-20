@@ -86,4 +86,12 @@
 - **State Management con Context:** [https://makeitreal.s3.amazonaws.com/videos/85737501506/2022-04-07/FQV69YG8r.mp4](https://makeitreal.s3.amazonaws.com/videos/85737501506/2022-04-07/FQV69YG8r.mp4)
 - **Cargar imagenes al servidor y subirlas a cloudinary:** [https://makeitreal.s3.amazonaws.com/videos/85737501506/2022-04-07/WlMlzCsKV.mp4](https://makeitreal.s3.amazonaws.com/videos/85737501506/2022-04-07/WlMlzCsKV.mp4)
 - **Envio de email con NodeMailer:** [https://makeitreal.s3.amazonaws.com/videos/85737501506/2022-04-08/i8y0NbMen.mp4](https://makeitreal.s3.amazonaws.com/videos/85737501506/2022-04-08/i8y0NbMen.mp4)
-- **Sendgrid y verification de cuenta:**: [https://makeitreal.s3.amazonaws.com/videos/85737501506/2022-04-08/sugMEFo3_.mp4](https://makeitreal.s3.amazonaws.com/videos/85737501506/2022-04-08/sugMEFo3_.mp4)
+- **Sendgrid y verification de cuenta:** [https://makeitreal.s3.amazonaws.com/videos/85737501506/2022-04-08/sugMEFo3_.mp4](https://makeitreal.s3.amazonaws.com/videos/85737501506/2022-04-08/sugMEFo3_.mp4)
+- **ENTREGABLE 7**: [https://makeitreal.s3.amazonaws.com/videos/85737501506/2022-04-18/_MncaFIhy.mp4](https://makeitreal.s3.amazonaws.com/videos/85737501506/2022-04-18/_MncaFIhy.mp4)
+
+## Modulo 8:
+
+- **Auth0**: [https://makeitreal.s3.amazonaws.com/videos/85737501506/2022-04-18/7oaSq5Toq.mp4](https://makeitreal.s3.amazonaws.com/videos/85737501506/2022-04-18/7oaSq5Toq.mp4)
+- **Pasarela de pagos - Stripe:** [https://makeitreal.s3.amazonaws.com/videos/85737501506/2022-04-19/Z9wD6A6nV.mp4](https://makeitreal.s3.amazonaws.com/videos/85737501506/2022-04-19/Z9wD6A6nV.mp4)
+- **Stripe dentro del proyecto de backend:** [https://makeitreal.s3.amazonaws.com/videos/85737501506/2022-04-19/aWR_Xiiwa.mp4](https://makeitreal.s3.amazonaws.com/videos/85737501506/2022-04-19/aWR_Xiiwa.mp4)
+- **Testing e2e con cypress.js:** [https://makeitreal.s3.amazonaws.com/videos/85737501506/2022-04-20/luM1y9PPq.mp4](https://makeitreal.s3.amazonaws.com/videos/85737501506/2022-04-20/luM1y9PPq.mp4)
