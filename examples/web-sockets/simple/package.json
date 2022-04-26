@@ -1,0 +1,16 @@
+{
+  "name": "simple-web-sockets",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "server": "cd server && node index.js",
+    "client": "npx serve client"
+  },
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "serve": "13.0.2",
+    "express": "4.17.2",
+    "express-ws": "5.0.2"
+  }
+}
