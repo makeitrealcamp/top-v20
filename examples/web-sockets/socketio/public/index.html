@@ -4,73 +4,25 @@
   <meta charset="UTF-8">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Socket.io</title>
-</head>
-<body>
-  <h1>My Socket.io app 💻</h1>
-  <div id="messages"></div>
-  <br>
-
-  <form>
-    <input type="text" id="author" placeholder="Tu nombre">
-    <input type="text" id="text" placeholder="Contame algo.">
-    <button type="submit">Enviar</button>
-  </form>
-
-  <script src="/socket.io/socket.io.js"></script>
-  <script>
-    const socket = io('http://localhost:8080');
-
-    const $containerMessages = document.querySelector('#messages');
-    const $form = document.querySelector('form');
-
-    function render(data = []) {
-      const html = data.map(message => {
-        return `
-          <div class="message">
-            <strong>${message.author}</strong>: ${message.text}
-          </div>
-        `;
-      }).join('');
-
-      return html;
+  <title>Map realtime</title>
+  <style>
+    #map {
+      height: 100vh;
     }
-
-    function handlerSubmit(evt) {
-      evt.preventDefault();
-
-      const $author = document.querySelector('#author');
-      const $text = document.querySelector('#text');
-
-      const msg = {
-        author: $author.value,
-        text: $text.value
-      };
-
-      socket.emit('message:add', msg);
-
-      $author.value = '';
-      $text.value = '';
-    }
-
-    $form.addEventListener('submit', handlerSubmit);
-
-    socket.on('connect', () => {
-      console.log('Conectado al servidor');
-    });
-
-    socket.on('messages', (data) => {
-      console.log('mensaje recibido', data);
-
-      $containerMessages.innerHTML = render(data);
-    })
-
-    socket.on('disconnect', () => {
-      console.log('Desconectado del servidor');
-    });
-
-
+  </style>
+  <link rel="stylesheet" href="https://unpkg.com/leaflet@1.7.1/dist/leaflet.css"
+    integrity="sha512-xodZBNTC5n17Xt2atTPuE1HxjVMSvLVW9ocqUKLsCC5CXdbqCmblAshOMAS6/keqq/sMZMZ19scR4PsZChSR7A=="
+    crossorigin="" />
+  <!-- Make sure you put this AFTER Leaflet's CSS -->
+  <script src="https://unpkg.com/leaflet@1.7.1/dist/leaflet.js"
+    integrity="sha512-XQoYMqMTK8LvdxXYG3nZ448hOEQiglfqkJs1NOQV44cWnUrBc8PkAOcXy20w0vlaXaVUearIOBhiXZ5V3ynxwA=="
+    crossorigin="">
   </script>
 
+</head>
+<body>
+  <div id="map"></div>
+
+  <script src="/socket.io/socket.io.js"></script>
 </body>
 </html>
