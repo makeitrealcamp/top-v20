@@ -7,13 +7,13 @@ RUN mkdir -p /app
 WORKDIR /app
 
 # copy files to current work directory
-COPY package.json /app/package.json
+COPY ["package.json", "package-lock.json*", "./"]
 
 # install dependencies
 RUN npm install
 
 # copy files to current work directory
-COPY . /app
+COPY . .
 
 # open default port
 EXPOSE 8080
