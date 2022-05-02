@@ -95,3 +95,20 @@
 - **Pasarela de pagos - Stripe:** [https://makeitreal.s3.amazonaws.com/videos/85737501506/2022-04-19/Z9wD6A6nV.mp4](https://makeitreal.s3.amazonaws.com/videos/85737501506/2022-04-19/Z9wD6A6nV.mp4)
 - **Stripe dentro del proyecto de backend:** [https://makeitreal.s3.amazonaws.com/videos/85737501506/2022-04-19/aWR_Xiiwa.mp4](https://makeitreal.s3.amazonaws.com/videos/85737501506/2022-04-19/aWR_Xiiwa.mp4)
 - **Testing e2e con cypress.js:** [https://makeitreal.s3.amazonaws.com/videos/85737501506/2022-04-20/luM1y9PPq.mp4](https://makeitreal.s3.amazonaws.com/videos/85737501506/2022-04-20/luM1y9PPq.mp4)
+- **Integración y despliegues continuos:** [https://makeitreal.s3.amazonaws.com/videos/85737501506/2022-04-21/MADdSPWsV.mp4](https://makeitreal.s3.amazonaws.com/videos/85737501506/2022-04-21/MADdSPWsV.mp4)
+- **Github Actions**: [https://makeitreal.s3.amazonaws.com/videos/85737501506/2022-04-21/TOpo4C8gX.mp4](https://makeitreal.s3.amazonaws.com/videos/85737501506/2022-04-21/TOpo4C8gX.mp4)
+- **Introducción a Typescript**: [https://makeitreal.s3.amazonaws.com/videos/85737501506/2022-04-22/B0myw_Wz1.mp4](https://makeitreal.s3.amazonaws.com/videos/85737501506/2022-04-22/B0myw_Wz1.mp4)
+- **Node.js con Typescript**: [https://makeitreal.s3.amazonaws.com/videos/85737501506/2022-04-22/xArQtUdx7.mp4](https://makeitreal.s3.amazonaws.com/videos/85737501506/2022-04-22/xArQtUdx7.mp4)
+- **React.js con Typrescript:** [https://makeitreal.s3.amazonaws.com/videos/85737501506/2022-04-25/jcOBOB9TR.mp4](https://makeitreal.s3.amazonaws.com/videos/85737501506/2022-04-25/jcOBOB9TR.mp4)
+- **ENTREGABLE 8**: [https://makeitreal.s3.amazonaws.com/videos/85737501506/2022-04-25/7Zp-LgW8b.mp4](https://makeitreal.s3.amazonaws.com/videos/85737501506/2022-04-25/7Zp-LgW8b.mp4)
+
+## Modulo 9:
+
+- **Websockets**: [https://makeitreal.s3.amazonaws.com/videos/85737501506/2022-04-26/GtzQrJHS6.mp4](https://makeitreal.s3.amazonaws.com/videos/85737501506/2022-04-26/GtzQrJHS6.mp4)
+- **Socket.io** [https://makeitreal.s3.amazonaws.com/videos/85737501506/2022-04-26/97OYIS5R6.mp4](https://makeitreal.s3.amazonaws.com/videos/85737501506/2022-04-26/97OYIS5R6.mp4)
+- **Socket React - Node Folder:** [https://makeitreal.s3.amazonaws.com/videos/85737501506/2022-04-27/0ZkS2iLZ2.mp4](https://makeitreal.s3.amazonaws.com/videos/85737501506/2022-04-27/0ZkS2iLZ2.mp4)
+- **Introduccion a Docker**: [https://makeitreal.s3.amazonaws.com/videos/85737501506/2022-04-27/PnLGS0U4c.mp4](https://makeitreal.s3.amazonaws.com/videos/85737501506/2022-04-27/PnLGS0U4c.mp4)
+- **Docker y MongoDB (shell):** [https://makeitreal.s3.amazonaws.com/videos/85737501506/2022-04-28/TlRBMuH-I.mp4](https://makeitreal.s3.amazonaws.com/videos/85737501506/2022-04-28/TlRBMuH-I.mp4)
+- **DockerFile - Docker-compose con Node.js:** [https://makeitreal.s3.amazonaws.com/videos/85737501506/2022-04-28/coc7DdMeZ.mp4](https://makeitreal.s3.amazonaws.com/videos/85737501506/2022-04-28/coc7DdMeZ.mp4)
+- **Redis nodejs**: [https://makeitreal.s3.amazonaws.com/videos/85737501506/2022-04-29/n9DH2uw-X.mp4](https://makeitreal.s3.amazonaws.com/videos/85737501506/2022-04-29/n9DH2uw-X.mp4)
+- **Redis - Heroku**: [https://makeitreal.s3.amazonaws.com/videos/85737501506/2022-05-02/AsOOwRbQ1.mp4](https://makeitreal.s3.amazonaws.com/videos/85737501506/2022-05-02/AsOOwRbQ1.mp4)
