@@ -1,0 +1,5 @@
+### Get all chracters
+GET http://localhost:8080/characters
+
+### Single character
+GET http://localhost:8080/characters/2
