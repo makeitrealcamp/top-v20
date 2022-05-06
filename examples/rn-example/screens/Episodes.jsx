@@ -1,10 +1,13 @@
 import { useState, useEffect } from 'react';
 import { Text, View, StyleSheet, FlatList, Platform } from 'react-native';
 
+import ImagePickerExample from '../components/Devices/ImagePicker';
+
 const Episodes = () => {
   return (
     <View style={styles.container}>
       <Text style={styles.text}>Episodes</Text>
+      <ImagePickerExample />
     </View>
   );
 };

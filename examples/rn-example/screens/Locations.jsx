@@ -1,12 +1,10 @@
 import { useState, useEffect } from 'react';
 import { Text, View, StyleSheet, FlatList, Platform } from 'react-native';
 
+import Camera from '../components/Devices/Camera';
+
 const LocationsScreen = () => {
-  return (
-    <View style={styles.container}>
-      <Text style={styles.text}>Locations</Text>
-    </View>
-  );
+  return <Camera />;
 };
 
 const styles = StyleSheet.create({
