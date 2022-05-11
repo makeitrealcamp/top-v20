@@ -38,6 +38,9 @@ async function findAllWithPosts(id) {
       },
     ],
     attributes: ['id', 'name'],
+    where: {
+      id,
+    }
   });
 
   return users;
