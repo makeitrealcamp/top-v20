@@ -4,6 +4,7 @@ const {
   createUser,
   updateUser,
   deleteUser,
+  findAllWithPosts,
 } = require('./user.service');
 
 async function index(req, res) {
@@ -60,10 +61,23 @@ async function destroy(req, res) {
   }
 }
 
+async function getAllWithPosts(req, res) {
+  try {
+    const users = await findAllWithPosts(req.params.id);
+    if (!users) {
+      return res.status(404).json({ message: 'User not found' });
+    }
+    return res.json(users);
+  } catch (error) {
+    return res.status(500).json({ message: error.message });
+  }
+}
+
 module.exports = {
   index,
   show,
   create,
   update,
   destroy,
+  getAllWithPosts,
 }
