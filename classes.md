@@ -112,3 +112,32 @@
 - **DockerFile - Docker-compose con Node.js:** [https://makeitreal.s3.amazonaws.com/videos/85737501506/2022-04-28/coc7DdMeZ.mp4](https://makeitreal.s3.amazonaws.com/videos/85737501506/2022-04-28/coc7DdMeZ.mp4)
 - **Redis nodejs**: [https://makeitreal.s3.amazonaws.com/videos/85737501506/2022-04-29/n9DH2uw-X.mp4](https://makeitreal.s3.amazonaws.com/videos/85737501506/2022-04-29/n9DH2uw-X.mp4)
 - **Redis - Heroku**: [https://makeitreal.s3.amazonaws.com/videos/85737501506/2022-05-02/AsOOwRbQ1.mp4](https://makeitreal.s3.amazonaws.com/videos/85737501506/2022-05-02/AsOOwRbQ1.mp4)
+- ENTREGABLE 9: [https://makeitreal.s3.amazonaws.com/videos/85737501506/2022-05-06/xKCgOAp-V.mp4](https://makeitreal.s3.amazonaws.com/videos/85737501506/2022-05-06/xKCgOAp-V.mp4)
+
+## Modulo 10:
+
+- **Introducción a React Native:** [https://makeitreal.s3.amazonaws.com/videos/85737501506/2022-05-02/Oi26sW1J_.mp4](https://makeitreal.s3.amazonaws.com/videos/85737501506/2022-05-02/Oi26sW1J_.mp4)
+- **Componentes React Native (Core - Community):** [https://makeitreal.s3.amazonaws.com/videos/85737501506/2022-05-03/Im_4VgClm.mp4](https://makeitreal.s3.amazonaws.com/videos/85737501506/2022-05-03/Im_4VgClm.mp4)
+- **ReactNavigation - Enrutamiento para React Native:** [https://makeitreal.s3.amazonaws.com/videos/85737501506/2022-05-04/n_lslU_jU.mp4](https://makeitreal.s3.amazonaws.com/videos/85737501506/2022-05-04/n_lslU_jU.mp4)
+- **Networking y Async Storage - React Native:** [https://makeitreal.s3.amazonaws.com/videos/85737501506/2022-05-05/G1-xYtRz8.mp4](https://makeitreal.s3.amazonaws.com/videos/85737501506/2022-05-05/G1-xYtRz8.mp4)
+- **React Native Acceder al caret de imágenes y cámara:** [https://makeitreal.s3.amazonaws.com/videos/85737501506/2022-05-06/6COOK-jKl.mp4](https://makeitreal.s3.amazonaws.com/videos/85737501506/2022-05-06/6COOK-jKl.mp4)
+
+## Modulo 11:
+
+- **Proyectos individuales - Ideas:** [https://makeitreal.s3.amazonaws.com/videos/85737501506/2022-05-09/Y5Wtifcfb.mp4](https://makeitreal.s3.amazonaws.com/videos/85737501506/2022-05-09/Y5Wtifcfb.mp4)
+- **Firebase - Firestore**: [https://makeitreal.s3.amazonaws.com/videos/85737501506/2022-05-10/RAxCM_IEp.mp4](https://makeitreal.s3.amazonaws.com/videos/85737501506/2022-05-10/RAxCM_IEp.mp4)
+- **Firebase - Autenticación**: [https://makeitreal.s3.amazonaws.com/videos/85737501506/2022-05-10/guAQpdEzB.mp4](https://makeitreal.s3.amazonaws.com/videos/85737501506/2022-05-10/guAQpdEzB.mp4)
+- **Sequelize ORM - Introducción:** [https://makeitreal.s3.amazonaws.com/videos/85737501506/2022-05-11/rDAasszww.mp4](https://makeitreal.s3.amazonaws.com/videos/85737501506/2022-05-11/rDAasszww.mp4)
+- **Sequelize - CLI, Associations:** [https://makeitreal.s3.amazonaws.com/videos/85737501506/2022-05-11/Js3h4qza9.mp4](https://makeitreal.s3.amazonaws.com/videos/85737501506/2022-05-11/Js3h4qza9.mp4)
+- **Headless CMS**: [https://makeitreal.s3.amazonaws.com/videos/85737501506/2022-05-12/3ON47g9h2.mp4](https://makeitreal.s3.amazonaws.com/videos/85737501506/2022-05-12/3ON47g9h2.mp4)
+- **Strapi** **headless CMS** [https://makeitreal.s3.amazonaws.com/videos/85737501506/2022-05-12/YD8xAlZDc.mp4](https://makeitreal.s3.amazonaws.com/videos/85737501506/2022-05-12/YD8xAlZDc.mp4)
+
+## Modulo 12:
+
+- **Introducción a GraphQL - P1**: [https://makeitreal.s3.amazonaws.com/videos/85737501506/2022-05-13/Ntw9W5sbo.mp4](https://makeitreal.s3.amazonaws.com/videos/85737501506/2022-05-13/Ntw9W5sbo.mp4)
+- **Introducción a GraphQL - P2**: [https://makeitreal.s3.amazonaws.com/videos/85737501506/2022-05-13/ynX5algDW.mp4](https://makeitreal.s3.amazonaws.com/videos/85737501506/2022-05-13/ynX5algDW.mp4)
+- **Introducción a GraphQL - P3**:  [https://makeitreal.s3.amazonaws.com/videos/85737501506/2022-05-16/KEEcNoIf3.mp4](https://makeitreal.s3.amazonaws.com/videos/85737501506/2022-05-16/KEEcNoIf3.mp4)
+- **Apollo Client:** [https://makeitreal.s3.amazonaws.com/videos/85737501506/2022-05-17/kVmE_0V3T.mp4](https://makeitreal.s3.amazonaws.com/videos/85737501506/2022-05-17/kVmE_0V3T.mp4)
+- **Apollo Server:** [https://makeitreal.s3.amazonaws.com/videos/85737501506/2022-05-18/rAC9SrqWD.mp4](https://makeitreal.s3.amazonaws.com/videos/85737501506/2022-05-18/rAC9SrqWD.mp4)
+- **Gastby.js:** [https://makeitreal.s3.amazonaws.com/videos/85737501506/2022-05-19/isYT0ti8U.mp4](https://makeitreal.s3.amazonaws.com/videos/85737501506/2022-05-19/isYT0ti8U.mp4)
+- **Next.js:** [https://makeitreal.s3.amazonaws.com/videos/85737501506/2022-05-20/2fliWx2Da.mp4](https://makeitreal.s3.amazonaws.com/videos/85737501506/2022-05-20/2fliWx2Da.mp4)
