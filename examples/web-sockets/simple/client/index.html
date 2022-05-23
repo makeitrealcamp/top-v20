@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>WebSockets</title>
+</head>
+<body>
+  <h1>Web Socket simple</h1>
+
+  <script>
+    // Create a new WebSocket.
+    const ws = new WebSocket('wss://ws.blockchain.info/inv');
+
+    // Connection opened
+    // ws.addEventListener('open', function (event) {
+    //   console.log('Connection opened');
+    // });
+    ws.onopen = function (event) {
+      console.log('Cliente conectado');
+
+      ws.send(`{ op: 'ping' }`);
+    };
+
+    // Listen for messages
+    ws.onmessage = function (event) {
+      console.log('Message from server ', event.data);
+
+
+    };
+
+    // setInterval(() => {
+    //   const msg = {
+    //     author: 'Cliente',
+    //     message: `Message ${Math.floor(Math.random() * 100)}`
+    //   }
+    //     ws.send(JSON.stringify(msg));
+    //   }, 3000);
+
+    // Listen for errors
+    ws.onerror = function (event) {
+      console.log('Error occured');
+    };
+
+    // Connection closed
+    ws.onclose = function (event) {
+      console.log('Connection closed');
+    };
+
+  </script>
+
+
+</body>
+</html>

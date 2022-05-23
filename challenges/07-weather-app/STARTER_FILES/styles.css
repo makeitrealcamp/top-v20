@@ -1,0 +1,158 @@
+@import url('https://fonts.googleapis.com/css2?family=Krona+One&family=Oswald&display=swap');
+
+body {
+  background: #E9F5FA;
+  padding: 0;
+  margin: 0;
+  min-width: 100vw;
+  min-height: 100vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+#weather {
+  position: absolute;
+}
+
+.wrapper {
+  display: flex;
+  gap: 30px;
+  justify-content: center;
+}
+
+.day {
+  color: #4DB0D3;
+  font-family: 'Krona One', sans-serif;
+  text-align: center;
+}
+
+.day-of-week {
+  font-size: 1.5rem;
+  text-transform: uppercase;
+}
+
+.date {
+  font-size: 4.5rem;;
+}
+
+.cloudy {
+  --background: #4DB0D3;
+  --temperature: #E6DF95;
+  --content: #D3EBF4;
+}
+
+.sunny {
+  --background: #E6DF95;
+  --temperature: #4DB0D3;
+  --content: #247490;
+}
+
+.stormy {
+  --background: #0E2E3A;
+  --temperature: #E6DF95;
+  --content: #D3EBF4;
+}
+
+.snowy {
+  --background: #BCE1EF;
+  --temperature: #0E2E3A;
+  --content: #247490;
+}
+
+.partly-cloudy {
+  --background: #4DB0D3;
+  --temperature: #E6DF95;
+  --content: #D3EBF4;
+}
+
+.rainy {
+  --background: #2B8BAD;
+  --temperature: #E6DF95;
+  --content: #D3EBF4;
+}
+
+.bar {
+  background: var(--background);
+  min-height: 425px;
+  border-radius: 50px;
+  position: relative;
+  width: 164px;
+  padding-top: 252px;
+  box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.1), 11px 4px 34px rgba(32, 77, 92, 0.25);
+}
+
+.temperature {
+  font-family: 'Oswald', sans-serif;
+  color: var(--temperature);
+  font-size: 7rem;
+  position: relative;
+  padding-bottom: 60px;
+}
+
+.degrees {
+  position: absolute;
+  font-size: 3rem;
+  top: 20px;
+}
+
+.content {
+  color: var(--content);
+}
+
+#weather,
+#icon,
+.weather {
+  position: absolute;
+}
+
+.icon {
+  fill: currentColor;
+  height: 32px;
+  width: 32px;
+  display: inline-block;
+  position: relative;
+  top: 10px;
+}
+
+.precipitation {
+  margin-bottom: 10px;
+}
+
+.low .icon {
+  left: -3px;
+  position: relative;
+}
+
+.cloudy .weather {
+  left: -26px;
+  top: 77px;
+}
+
+.sunny .weather {
+  left: -21px;
+  top: 20px;
+}
+
+.stormy .weather {
+  left: -21px;
+  top: 40px;
+}
+
+.snowy .weather {
+  left: -25px;
+  top: 20px;
+}
+
+.partly-cloudy .weather {
+  left: -14px;
+  top: 20px;
+}
+
+.rainy .weather {
+  left: 31px;
+  top: -13px;
+}
+
+
+
