@@ -1,6 +1,7 @@
 # 🎥 Clases TOP-v20
 
 ## Modulo 1:
+
 - **Introduction**:
     - Manana: [https://makeitreal.s3.amazonaws.com/videos/85737501506/2022-02-21/zKAqwxR5Z.mp4](https://makeitreal.s3.amazonaws.com/videos/85737501506/2022-02-21/zKAqwxR5Z.mp4)
     - Tarde: [https://makeitreal.s3.amazonaws.com/videos/85737501506/2022-02-21/_XsBHzuMe.mp4](https://makeitreal.s3.amazonaws.com/videos/85737501506/2022-02-21/_XsBHzuMe.mp4)
@@ -49,6 +50,7 @@
 - **Introducción a Redux**: [https://makeitreal.s3.amazonaws.com/videos/85737501506/2022-03-17/HAgPolWDC.mp4](https://makeitreal.s3.amazonaws.com/videos/85737501506/2022-03-17/HAgPolWDC.mp4)
 - **Creando un counter con redux:** [https://makeitreal.s3.amazonaws.com/videos/85737501506/2022-03-17/22pEY61xm.mp4](https://makeitreal.s3.amazonaws.com/videos/85737501506/2022-03-17/22pEY61xm.mp4)
 - **ToDo List con Redux:** [https://makeitreal.s3.amazonaws.com/videos/85737501506/2022-03-18/RhqxWGvM0.mp4](https://makeitreal.s3.amazonaws.com/videos/85737501506/2022-03-18/RhqxWGvM0.mp4)
+- **Despliegue React App**: [https://makeitreal.s3.amazonaws.com/videos/85737501506/2022-03-18/pBi3tPg9p.mp4](https://makeitreal.s3.amazonaws.com/videos/85737501506/2022-03-18/pBi3tPg9p.mp4)
 - **ENTREGABLE 4:** [https://makeitreal.s3.amazonaws.com/videos/85737501506/2022-03-22/RtdRMX22j.mp4](https://makeitreal.s3.amazonaws.com/videos/85737501506/2022-03-22/RtdRMX22j.mp4)
 
 ## Modulo 5:
@@ -67,7 +69,7 @@
 
 - **Autenticación en NodeJS**: [https://makeitreal.s3.amazonaws.com/videos/85737501506/2022-03-28/gGZqGMRwK.mp4](https://makeitreal.s3.amazonaws.com/videos/85737501506/2022-03-28/gGZqGMRwK.mp4)
 - **Autorización con middleware:** [https://makeitreal.s3.amazonaws.com/videos/85737501506/2022-03-29/OkWZeveUo.mp4](https://makeitreal.s3.amazonaws.com/videos/85737501506/2022-03-29/OkWZeveUo.mp4)
-- **Middleware para roles:** [https://makeitreal.s3.amazonaws.com/videos/85737501506/2022-03-29/eg6UzWV2q.mp4](https://makeitreal.s3.amazonaws.com/videos/85737501506/2022-03-29/eg6UzWV2q.mp4)
+- Middewlare para roles [https://makeitreal.s3.amazonaws.com/videos/85737501506/2022-03-29/eg6UzWV2q.mp4](https://makeitreal.s3.amazonaws.com/videos/85737501506/2022-03-29/eg6UzWV2q.mp4)
 - **Deploy en Heroku:** [https://makeitreal.s3.amazonaws.com/videos/85737501506/2022-03-30/9ZpLBQUxW.mp4](https://makeitreal.s3.amazonaws.com/videos/85737501506/2022-03-30/9ZpLBQUxW.mp4)
 - **Introducción a testing:** [https://makeitreal.s3.amazonaws.com/videos/85737501506/2022-03-30/nHjZjlQTd.mp4](https://makeitreal.s3.amazonaws.com/videos/85737501506/2022-03-30/nHjZjlQTd.mp4)
 - **JEST**: [https://makeitreal.s3.amazonaws.com/videos/85737501506/2022-03-31/36KatuxS4.mp4](https://makeitreal.s3.amazonaws.com/videos/85737501506/2022-03-31/36KatuxS4.mp4)
