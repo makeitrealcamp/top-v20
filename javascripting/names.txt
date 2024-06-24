@@ -1,0 +1,7 @@
+const { faker } = require('@faker-js/faker');
+
+for(let i=0;i<=100;i++){
+    const randomName = faker.name.findName();
+    console.log(`${randomName}`)
+}
+console.log('Proceso culminado exitosamente...')
