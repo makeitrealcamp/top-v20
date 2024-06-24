@@ -1,0 +1,16 @@
+{
+  "name": "norbey-vasquez",
+  "version": "1.0.0",
+  "description": "example with js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Norbey Vasquez",
+  "license": "MIT",
+  "dependencies": {
+    "-": "0.0.1",
+    "date-fns": "^2.28.0",
+    "javascripting": "^2.7.4"
+  }
+}
